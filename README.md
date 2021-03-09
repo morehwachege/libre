@@ -1,6 +1,6 @@
 # Libre - a reponsive single page app template for collection management projects.
 
-![Libre](./.png)
+![Libre](./screen.png)
 
 Libre is a responsive single page app template designed for developers who want to create collection management-like projects (e.g. books, music, podcasts, games, etc.). Built with tailwind.css and vanilla javascript, this template is easily customizable and has common components like profile, lists, filters and popovers which sets the ground work for your projects. Libre is made for aduki exclusively.
 
@@ -21,8 +21,6 @@ $ npm install -g browserify
 $ browserify main.js -o bundle.js
 ```
 
-Check out the details on [Codrops]()
-
 ## Live Demo
 👋 [Libre Live Demo]()
 
@@ -34,12 +32,12 @@ Check out the details on [Codrops]()
 - [Shopify Polaris's Icons](https://polaris.shopify.com/)
 
 ## License
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://aduki.net/terms/licensing/)
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](http://aduki.net/terms/licensing/)
 
 ## Misc
 
-Follow Amie: [Website](https://www.amie-chen.com/), [Dribbble](http://www.dribbble.com/hyperyolo), [Github](https://github.com/amiechen), [Twitter](https://twitter.com/hyper_yolo), [Medium](https://medium.com/@hyperyolo)
+Follow femar: [Website](https://www.omba.site/), [Dribbble](http://www.dribbble.com/fescii), [Github](https://github.com/fescii), [Twitter](https://twitter.com/femar_will), [Medium](https://medium.com/@)
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+Follow aduki, Inc : [Twitter](http://www.twitter.com/aduki_inc), [Facebook](http://www.facebook.com/pages/), [Google+](https://plus.google.com/), [GitHub](https://github.com/aduki-inc), [Pinterest](http://www.pinterest.com/)
 
-[© aduki,Inc 2018](http://www.aduki.net)
+[© aduki, Inc 2021](http://www.aduki.net)
