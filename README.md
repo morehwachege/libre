@@ -2,10 +2,10 @@
 
 ![Libre](./.png)
 
-Libre is a responsive single page app template designed for developers who want to create collection management-like projects (e.g. books, music, podcasts, games, etc.). Built with tailwind.css and vanilla javascript, this template is easily customizable and has common components like profile, lists, filters and popovers which sets the ground work for your projects. Libre is made for Codrops exclusively.
+Libre is a responsive single page app template designed for developers who want to create collection management-like projects (e.g. books, music, podcasts, games, etc.). Built with tailwind.css and vanilla javascript, this template is easily customizable and has common components like profile, lists, filters and popovers which sets the ground work for your projects. Libre is made for aduki exclusively.
 
 ## Running the project locally
-Make sure your local version is v6+. I currently am using v10.8 as of March 2021.
+Make sure your local version is v6+. I currently we are using v10.8 as of March 2021.
 ```
 npm install
 ```
