@@ -32,7 +32,7 @@ $ browserify main.js -o bundle.js
 - [Shopify Polaris's Icons](https://polaris.shopify.com/)
 
 ## License
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](http://aduki.net/terms/licensing/)
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.]()
 
 ## Misc
 
