@@ -22,7 +22,7 @@ $ browserify main.js -o bundle.js
 ```
 
 ## Live Demo
-👋 [Libre Live Demo] 
+👋 [Libre Live Demo](http://femar.great-site.net)
 
 ## Credits
 - [Browserify](http://browserify.org/)
